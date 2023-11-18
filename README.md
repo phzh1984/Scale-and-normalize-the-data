@@ -1,4 +1,4 @@
-# Scaling-and-normalization-the-data
+# Scale-and-normalize-the-data
 
 Scaling and normalizing data are preprocessing techniques used in machine learning and data analysis to transform the features of a dataset. Both techniques aim to bring the data within a specific range or distribution, but they operate differently.
 
